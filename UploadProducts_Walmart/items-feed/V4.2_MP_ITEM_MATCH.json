@@ -1,0 +1,24 @@
+{
+    "MPItemFeedHeader": {
+      "processMode": "REPLACE",
+      "subset": "EXTERNAL",
+      "locale": "en",
+      "sellingChannel": "mpsetupbymatch",
+      "version": "4.1"
+    },
+    "MPItem": [
+      {
+        "Item": {
+          "sku": "00649081xxxxxx",
+          "condition": "Pre-Owned: Fair",
+          "mainImageUrl": "https://i5-qa.walmartimages.com/asr/549ecbe9-c874-475b-87d8-5e4cb19934ec.8f5d70e62bd0bb8abc6772c9ef1694e0.jpeg",
+          "productIdentifiers": {
+            "productIdType": "GTIN",
+            "productId": "00469710xxxxxx"
+          },
+          "ShippingWeight": 1,
+          "price": 1
+        }
+      }
+    ]
+  }

@@ -1,0 +1,80 @@
+{
+    "MPItemFeedHeader": {
+      "businessUnit": "WALMART_US",
+      "locale": "en",
+      "version": "5.0.20240517-04_08_27-api"
+    },
+    "MPItem": [
+      {
+        "Orderable": {
+          "sku": "09876543210987",
+          "productIdentifiers": {
+            "productIdType": "UPC",
+            "productId": "876543210987"
+          },
+          "price": 249.99,
+          "ShippingWeight": 0.57,
+          "stateRestrictions": [
+            {
+              "stateRestrictionsText": "None"
+            }
+          ],
+          "specProductType": "Instant Cameras",
+          "startDate": "2024-01-01T00:00:00+00:00",
+          "endDate": "2032-12-31T00:00:00+00:00",
+          "fulfillmentLagTime": "1",
+          "MustShipAlone": "No"
+        },
+        "Visible": {
+          "Exterior Automotive Accessories": {
+            "productName": "Wireless Earphones with Advanced Features",
+            "brand": "Walmart",
+            "shortDescription": "&lt;p>Totally wireless earphones are built to revolutionize your workouts. The adjustable, secure-fit earhooks are customizable for extended comfort and stability.&lt;/p>A reinforced design for sweat and water resistance lets you take it to the next level. Each earbud has full volume and track controls and up to 9 hours of listening time to fuel your training with powerful, balanced sound.",
+            "keyFeatures": [
+              "Designed to keep up with your workouts",
+              "Reinforced design for sweat and water resistance with adjustable, secure-fit earhooks for added comfort and stability.",
+              "Stay connected from a distance with Bluetooth technology, these wireless earphones deliver extended range and fewer dropouts.",
+              "Powers through long hours of training"
+            ],
+            "mainImageUrl": "https://i5.walmartimages.com/seo/onn-Wireless-Bluetooth-on-Ear-Headphones-Black-New_07de2d93-505b-4902-8366-388a3f30e3b4.9375c5690645733ec080eef3f4895f7b.jpeg",
+            "countPerPack": 1,
+            "multipackQuantity": 1,
+            "isProp65WarningRequired": "No",
+            "condition": "New",
+            "has_written_warranty": "Yes - Warranty Text",
+            "netContent": {
+              "productNetContentMeasure": 1,
+              "productNetContentUnit": "Each"
+            },
+            "productSecondaryImageURL": [
+              "https://i5.walmartimages.com/seo/onn-Wireless-Bluetooth-on-Ear-Headphones-Black-New_07de2d93-505b-4902-8366-388a3f30e3b4.9375c5690645733ec080eef3f4895f7b.jpeg"
+            ],
+            "assembledProductLength": {
+              "measure": 4.33,
+              "unit": "in"
+            },
+            "assembledProductHeight": {
+              "measure": 4.33,
+              "unit": "in"
+            },
+            "assembledProductWeight": {
+              "measure": 0.57,
+              "unit": "lb"
+            },
+            "assembledProductWidth": {
+              "measure": 3.15,
+              "unit": "in"
+            },
+            "prop65WarningText": "No",
+            "manufacturer": "Walmart",
+            "manufacturerPartNumber": "WM123456",
+            "count": 1,
+            "warrantyText": "1 Year",
+            "color": "Blue",
+            "aaiaBrandID": "WMTB",
+            "vehicle_fitment_type": "Specific"
+          }
+        }
+      }
+    ]
+  }

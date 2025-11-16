@@ -1,0 +1,32 @@
+{
+    "ItemFeedHeader": {
+      "version": "1.0",
+      "sellingChannel": "overrides",
+      "locale": "en"
+    },
+    "Item": [
+      {
+        "Override": {
+          "sku": "sku1",
+          "actionType": "UPDATE",
+          "fulfilmentCenterId": "83746529874858430",
+          "ShippingOverrides": [
+            {
+              "ShippingOverride": {
+                "shipMethod": "EXPEDITED",
+                "actionType": "REPLACE",
+                "transit": 2,
+                "northeastRegionStates": "NY"
+              }
+            },
+            {
+              "ShippingOverride": {
+                "shipMethod": "STANDARD",
+                "actionType": "DELETE"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }

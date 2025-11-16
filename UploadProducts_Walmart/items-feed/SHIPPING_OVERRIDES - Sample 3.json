@@ -1,0 +1,15 @@
+{
+    "ItemFeedHeader": {
+      "version": "1.0",
+      "sellingChannel": "overrides",
+      "locale": "en"
+    },
+    "Item": [
+      {
+        "Override": {
+          "sku": "sku1",
+          "actionType": "DELETE"
+        }
+      }
+    ]
+  }

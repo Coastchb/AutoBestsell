@@ -1,0 +1,35 @@
+{
+    "MPItemFeedHeader": {
+      "sellingChannel": "marketplace",
+      "processMode": "REPLACE",
+      "subset": "EXTERNAL",
+      "locale": "en",
+      "version": "4.8",
+      "subCategory": "home_other"
+    },
+    "MPItem": [
+      {
+        "Orderable": {
+          "sku": "testCardSku",
+          "productIdentifiers": {
+            "productIdType": "GTIN",
+            "productId": "06146190200012"
+          },
+          "productName": "Ying Yang Apron, Abstract Graphic Design Yin Yang Circle Black and White Dots Pattern Cosmos and Energy, Unisex Kitchen Bib with Adjustable Neck for Cooking Gardening, Adult Size, Red, by Ambesonne",
+          "brand": "davidson",
+          "price": 1,
+          "ShippingWeight": 1,
+          "MustShipAlone": "No"
+        },
+        "Visible": {
+          "Home Decor, Kitchen, & Other": {
+            "shortDescription": "shelf",
+            "mainImageUrl": "https://i5-qa.walmartimages.com/asr/9e9d04d1-6520-448e-b336-f40b7fb98707.c4c99539377709c2a9e332558177be8b.jpeg",
+            "keyFeatures": [
+              "@generated"
+            ]
+          }
+        }
+      }
+    ]
+  }

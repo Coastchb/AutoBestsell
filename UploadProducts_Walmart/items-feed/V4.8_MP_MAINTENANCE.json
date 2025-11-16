@@ -1,0 +1,38 @@
+{
+    "MPItemFeedHeader": {
+      "sellingChannel": "mpmaintenance",
+      "processMode": "REPLACE",
+      "subset": "EXTERNAL",
+      "locale": "en",
+      "version": "4.8",
+      "subCategory": "computers"
+    },
+    "MPItem": [
+      {
+        "Orderable": {
+          "sku": "skum1_may23_fail01_test",
+          "productIdentifiers": {
+            "productIdType": "GTIN",
+            "productId": "06848390988881"
+          },
+          "productName": "iPhone 14 pro max",
+          "brand": "Apple",
+          "price": 299.99,
+          "startDate": "2023-05-23T07:00:00Z",
+          "endDate": "2049-12-31T08:00:00Z",
+          "shipsInOriginalPackaging": "No",
+          "MustShipAlone": "No",
+          "ShippingWeight": 4
+        },
+        "Visible": {
+          "Computers": {
+            "shortDescription": "test Desc fold",
+            "mainImageUrl": "https://i5-qa.walmartimages.com/asr/7bec61bc-ec33-4334-8131-ecb8305e1e19.62d73c2f61f929ef580fe375e3597c13.jpeg",
+            "keyFeatures": [
+              "@generated"
+            ]
+          }
+        }
+      }
+    ]
+  }

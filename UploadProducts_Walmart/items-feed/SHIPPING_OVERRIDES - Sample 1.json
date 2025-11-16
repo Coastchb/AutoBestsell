@@ -1,0 +1,60 @@
+{
+    "ItemFeedHeader": {
+      "version": "1.0",
+      "sellingChannel": "overrides",
+      "locale": "en"
+    },
+    "Item": [
+      {
+        "Override": {
+          "sku": "sku1",
+          "actionType": "UPDATE",
+          "fulfilmentCenterId": "83746529874858430",
+          "ShippingOverrides": [
+            {
+              "ShippingOverride": {
+                "shipMethod": "EXPEDITED",
+                "actionType": "REPLACE",
+                "transit": 2,
+                "northeastRegionStates": "CT,NJ,NY",
+                "midwestRegionStates": "IA,MN",
+                "westRegionStates": "CA,OR",
+                "southRegionStates": "FL,AL"
+              }
+            },
+            {
+              "ShippingOverride": {
+                "shipMethod": "STANDARD",
+                "actionType": "REPLACE",
+                "transit": 3,
+                "northeastRegionStates": "CT,NJ,NY",
+                "midwestRegionStates": "IA,MN",
+                "westRegionStates": "CA,OR",
+                "southRegionStates": "FL,AL"
+              }
+            },
+            {
+              "ShippingOverride": {
+                "shipMethod": "STANDARD",
+                "actionType": "REPLACE",
+                "transit": 4,
+                "shipPrice": 6.55,
+                "northeastRegionStates": "MA,NH",
+                "midwestRegionStates": "WI,MI,IL",
+                "westRegionStates": "WA,NV",
+                "southRegionStates": "MS,GA"
+              }
+            },
+            {
+              "ShippingOverride": {
+                "shipMethod": "VALUE",
+                "actionType": "REPLACE",
+                "transit": 9,
+                "nationWide": "STREET_48_STATES"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }

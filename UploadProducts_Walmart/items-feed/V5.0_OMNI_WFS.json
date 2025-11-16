@@ -1,0 +1,55 @@
+{
+    "SupplierItemFeedHeader": {
+      "businessUnit": "WALMART_US",
+      "locale": "en",
+      "version": "5.0.20240517-04_08_27-api"
+    },
+    "SupplierItem": [
+      {
+        "Orderable": {
+          "sku": "12345678901234",
+          "productIdentifiers": {
+            "productIdType": "UPC",
+            "productId": "987654321098"
+          },
+          "price": 19.99,
+          "stateRestrictions": [
+            {
+              "stateRestrictionsText": "None"
+            }
+          ],
+          "electronicsIndicator": "No",
+          "chemicalAerosolPesticide": "No",
+          "batteryTechnologyType": "Does Not Contain a Battery",
+          "endDate": "2074-08-13T00:00:00.000Z"
+        },
+        "Visible": {
+          "T-Shirts": {
+            "productName": "Walmart Brand - Women's Short Sleeve Graphic T-Shirt",
+            "brand": "Walmart",
+            "mainImageUrl": "https://i5.walmartimages.com/seo/Athletic-Works-Women-s-ButterCore-Tee-with-Short-Sleeves-Sizes-XS-XXXL_de1f2f06-fe7b-4f86-a8af-e555094309b6.2669712edc1bcfbbd266b592a9726e9f.jpeg",
+            "isProp65WarningRequired": "No",
+            "netContent": {
+              "productNetContentMeasure": 1,
+              "productNetContentUnit": "Count"
+            },
+            "prop65WarningText": "None"
+          }
+        },
+        "TradeItem": {
+          "sku": "12345678901234",
+          "orderableGTIN": "12345678901234",
+          "countryOfOriginAssembly": [
+            "US - United States"
+          ],
+          "each": {
+            "eachGTIN": "12345678901234",
+            "eachDepth": 9.25,
+            "eachWidth": 22,
+            "eachHeight": 0.5,
+            "eachWeight": 0.4
+          }
+        }
+      }
+    ]
+  }

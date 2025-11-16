@@ -1,0 +1,66 @@
+{
+    "MPItemFeedHeader": {
+      "sellingChannel": "marketplace",
+      "processMode": "REPLACE",
+      "subset": "EXTERNAL",
+      "locale": "en",
+      "version": "4.8",
+      "subCategory": "home_other"
+    },
+    "MPItem": [
+      {
+        "Orderable": {
+          "sku": "09876543210987",
+          "condition": "New",
+          "productIdentifiers": {
+            "productIdType": "GTIN",
+            "productId": "12345678901234"
+          },
+          "productName": "Walmart 3 Pcs Chef Hats for Adults, Adjustable Elastic Chef Cap, Kitchen Bakers Hat Cooking Cap Funny Chef Gifts for Men Women (Black, White, Red)",
+          "brand": "Walmart",
+          "price": 1,
+          "stateRestrictions": [
+            {
+              "stateRestrictionsText": "None"
+            }
+          ],
+          "ShippingWeight": 1,
+          "electronicsIndicator": "No",
+          "batteryTechnologyType": "Does Not Contain a Battery",
+          "chemicalAerosolPesticide": "No",
+          "shipsInOriginalPackaging": "No",
+          "MustShipAlone": "No"
+        },
+        "Visible": {
+          "Home Decor, Kitchen, & Other": {
+            "shortDescription": "A Little Bit Snug; These chef hats for adults are about 11.2 inches/ 28.4 cm wide, and 2 inches/ 5 cm high, for a total height of 4.9 inches/ 12.4 cm, and they have elastic in the headband that helps give it a little stretch, one size fits most adults. Lightweight and Comfortable. These adjustable elastic bakery hats are made of polyester fabric that is lightweight, soft and comfortable for long hours of wear; In addition, these adjustable cooking hats are fade resistant and will remain vibrant after washing. Traditional Cook's Hat. Bakers hat features a traditional, tall, pleated design that is simple and classic, looks cute and professional, and can help keep your head cool and your hair covered in hot and stressful environments. Practical Cooking Accessories. Cooking chef caps are suitable for many occasions, such as catering colleges, schools, restaurants, families, etc., and they can also be worn with aprons to keep you clean while cooking. Multicolored Fabric Chef Hat. The package comes with 3 pieces of tall chefs hats in 3 colors, namely, black, white and red, 1 pieces of each color, ideal for matching with your chef's uniforms to complete your outfit.",
+            "mainImageUrl": "https://i5.walmartimages.com/seo/No-Boundaries-Women-s-Distress-Baseball-Hat-One-Size-Fits-Most-Dark-Grey_934c4d04-0db4-4462-9379-35452ed565f5.8c3d48ff80017af50781f0896d35944e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+            "productSecondaryImageURL": [
+              "https://i5.walmartimages.com/asr/6da41f01-b113-49f2-a415-2c3e3582d99a.80deff864ae4452f0320273e47d25072.jpeg",
+              "https://i5.walmartimages.com/asr/46ec61e0-03c2-4a90-adea-314be168e9c2.7b070490ceaf486351da88e841820852.jpeg",
+              "https://i5.walmartimages.com/asr/aff848bb-5efc-4cd6-9198-600d86b3a79d.27371f88eabbfab94ac0c457469d2a6a.jpeg"
+            ],
+            "keyFeatures": [
+              "Adult chef hat. Color: black, red, white Material: Polyester 65% Cotton 35% With elastic in the back One size fits most. Adjustable chef hat. Comfortable to wear. A practical gift for the kitchen fanatics. Machine wash with like colors, tumble try low. Suitable for catering colleges, schools, restaurants, pubs, cafes, commercial, kitchens, hotels etc."
+            ],
+            "msrp": 13.99,
+            "manufacturer": "Walmart",
+            "countPerPack": 1,
+            "count": "3",
+            "pieceCount": 3,
+            "color": [
+              "Black, White, Red"
+            ],
+            "homeDecorStyle": "Kitchen",
+            "fabricCareInstructions": [
+              "Machine wash with like colors, tumble try low"
+            ],
+            "gender": "Unisex",
+            "features": [
+              "Adjustable Fit"
+            ]
+          }
+        }
+      }
+    ]
+  }

@@ -1,0 +1,100 @@
+{
+    "MPItemFeedHeader": {
+      "businessUnit": "WALMART_US",
+      "locale": "en",
+      "version": "5.0.20240517-04_08_27-api"
+    },
+    "MPItem": [
+      {
+        "Orderable": {
+          "sku": "09876543210987",
+          "productIdentifiers": {
+            "productId": "12345678901234",
+            "productIdType": "GTIN"
+          },
+          "price": 449,
+          "stateRestrictions": [
+            {
+              "stateRestrictionsText": "None"
+            }
+          ],
+          "chemicalAerosolPesticide": "No",
+          "electronicsIndicator": "No",
+          "batteryTechnologyType": "Does Not Contain a Battery",
+          "startDate": 1697596980494,
+          "endDate": 2524521600000,
+          "SkuUpdate": "Yes"
+        },
+        "Visible": {
+          "Athletic Shorts": {
+            "productName": "2022 Walmart 10.9-inch Tablet Wi-Fi 64GB - Silver (10th Generation)",
+            "brand": "Walmart",
+            "shortDescription": "&lt;p>&lt;strong>Loveable. Drawable. Magical&lt;/strong>&lt;br />&lt;/p>&lt;p>&lt;strong> Colorful. Incredibly capable. Even more fun.&lt;/strong>&lt;br />&lt;/p>&lt;p>&lt;strong> Meet the magical, colorful, all-new Tablet &lt;/strong>&lt;br />&lt;/p>&lt;p>&lt;strong> Unbelievably capable. Unmistakably Tablet.&lt;/strong>&lt;br /> &lt;/p>&lt;p>Colorfully reimagined and more versatile than ever. With an all-screen design, 10.9-inch Liquid Retina display, and four gorgeous colors. Tablet delivers a powerful way to create, stay connected, and get things done&lt;/p>",
+            "keyFeatures": [
+              "&lt;body>&lt;ul>&lt;li>&lt;b>Make quick work of your work&lt;/b>&lt;br />Get things done - all on one device. Take notes, collaborate and work seamlessly between apps. From pie charts to pie recipes, Tablet is designed for all kinds of productivity.&lt;/li>&lt;li>&lt;b>Take notes and collaborate&lt;/b>&lt;br />The A14 Bionic chip delivers power and performance for any activity. Edit a 4K video in iMovie, plan a globe-trotting vacation with friends or play a graphics-intensive game. With all-day battery life, you can do it all without skipping a beat.&lt;/li>&lt;li>&lt;b>Create to your heart&apos;s content&lt;/b>&lt;br />Express yourself, draw and brainstorm on a flexible creative powerhouse. The stunning 10.9&quot; Liquid Retina display makes an incredible canvas.&lt;/li>&lt;li>&lt;b>High-quality audio&lt;/b>&lt;br />Record and refine from anywhere with high-quality built-in mics and landscape stereo speakers. Start a podcast, compose a beat, score a film - your creative projects sound fantastic.&lt;/li>&lt;li>&lt;b>Get in touch - stay in frame&lt;/b>&lt;br />With the landscape 12MP ultra-wide front camera, you&apos;ll be perfectly in frame whether you&apos;re on a FaceTime call, attending a video conference or recording a selfie. And with Center Stage, the camera automatically adjusts to keep you centered in the shot.&lt;/li>&lt;li>&lt;b>Super-fast connections&lt;/b>&lt;br />Download files, play games online and stream movies with Wi-Fi 6.&lt;/li>&lt;li>&lt;b>Outstanding display&lt;/b>&lt;br />Dive into your favorite shows, apps and games on the beautiful 10.9&quot; Liquid Retina display. And with True Tone technology, it&apos;s comfortable to view in any light.&lt;/li>&lt;/ul>&lt;/body>"
+            ],
+            "mainImageUrl": "https://i5.walmartimages.com/seo/onn-11-Tablet-Pro-128GB-2023-Model-Grey_64354025-758c-45c6-abbd-558c17509499.7baecb2953577bf26720db426ab8d31a.jpeg",
+            "countPerPack": 1,
+            "count": 1,
+            "multipackQuantity": 1,
+            "isProp65WarningRequired": "No",
+            "clothingSize": "XX-Small",
+            "clothingSizeGroup": [
+              "Women"
+            ],
+            "color": "Silver",
+            "colorCategory": [
+              "Silver"
+            ],
+            "condition": "New",
+            "fabricCareInstructions": [
+              "Machine Wash Cold"
+            ],
+            "fabricContent": [
+              {
+                "materialName": "81% Polyamide, 19% Lycra",
+                "materialPercentage": 81
+              }
+            ],
+            "has_written_warranty": "Yes - Warranty Text",
+            "prop65WarningText": "No",
+            "clothingStyle": [
+              "Activewear"
+            ],
+            "manufacturer": "Walmart",
+            "manufacturerPartNumber": "WM123456",
+            "modelNumber": "WM123456",
+            "pattern": [
+              "Solid"
+            ],
+            "variantGroupId": "12345678901234",
+            "variantAttributeNames": [
+              "color",
+              "hard_drive_capacity"
+            ],
+            "isPrimaryVariant": "Y",
+            "swatchImages": [
+              {
+                "swatchVariantAttribute": "color",
+                "swatchImageUrl": "https://i5.walmartimages.com/asr/d608174b-d3a8-4815-941a-a9daba3fc39d.fa601223a5283477b44212a14f3f2e8c.jpeg"
+              }
+            ]
+          }
+        },
+        "TradeItem": {
+          "sku": "09876543210987",
+          "orderableGTIN": "12345678901234",
+          "countryOfOriginAssembly": [
+            "CN - China"
+          ],
+          "each": {
+            "eachGTIN": "12345678901234",
+            "eachDepth": 10.29,
+            "eachWidth": 7.51,
+            "eachHeight": 2.02,
+            "eachWeight": 1.98
+          }
+        }
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "MPItemFeedHeader": {
+      "processMode": "REPLACE",
+      "subset": "EXTERNAL",
+      "locale": "en",
+      "sellingChannel": "mpsetupbymatch",
+      "version": "4.1"
+    },
+    "MPItem": [
+      {
+        "Item": {
+          "sku": "00649081xxxxxx",
+          "productIdentifiers": {
+            "productIdType": "GTIN",
+            "productId": "00469710xxxxxx"
+          },
+          "ShippingWeight": 1,
+          "price": 1
+        }
+      }
+    ]
+  }

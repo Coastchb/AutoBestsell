@@ -1,0 +1,25 @@
+{
+    "ItemFeedHeader": {
+      "sellingChannel": "precisedelivery",
+      "locale": "en",
+      "version": "1.0"
+    },
+    "Item": [
+      {
+        "PreciseDelivery": {
+          "sku": "sku1",
+          "actionType": "Add",
+          "shippingTemplateId": "8374652987346572",
+          "fulfillmentCenterId": "83746529874858434"
+        }
+      },
+      {
+        "PreciseDelivery": {
+          "sku": "sku2",
+          "shippingTemplateId": "8374652987346572",
+          "actionType": "Remove",
+          "fulfillmentCenterId": "83746529874858434"
+        }
+      }
+    ]
+  }

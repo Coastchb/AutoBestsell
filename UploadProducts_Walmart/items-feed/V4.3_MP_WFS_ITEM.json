@@ -1,0 +1,133 @@
+{
+    "MPItemFeedHeader": {
+      "subCategory": "computers",
+      "sellingChannel": "marketplacewfs",
+      "processMode": "REPLACE",
+      "locale": "en",
+      "version": "1.3",
+      "subset": "EXTERNAL"
+    },
+    "MPItem": [
+      {
+        "Visible": {
+          "Computers": {
+            "warrantyText": "This warranty covers any defects in materials or workmanship, including installation, with the exceptions of fading or discoloration caused by exposure to sunlight or chemicals. This warranty runs for five years from the date your carpet is installed. Counterpoint will either replace your carpet with new carpet of similar composition and price, or refund the full purchase price of your carpet, whichever you prefer. Contact Counterpoint at 800-867-5309... [continued].",
+            "productSecondaryImageURL": [
+              "https://i5.walmartimages.com/asr/d67dfccc-3ffc-4752-ae10-b25cd587c7a9.e6d8c62517a21d945bd8e6dd38f3a0af.jpeg"
+            ],
+            "color": [
+              "Green"
+            ],
+            "count": "MFP00112BBQNMFP00112BBQNMFP00112BBQNMFP00112BBQNM",
+            "shortDescription": "Frame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material:",
+            "keyFeatures": [
+              "<ul><li>Frame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material:</li><li>Frame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material:</li><li>Frame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material:</li></ul>"
+            ],
+            "manufacturer": "MFP00112BBQNMFP00112BBQNMFP00112BBQNMFP00112BBQNMFP00112BBQ",
+            "manufacturerPartNumber": "DeagoDeagoDeagoDeagoDeagoDeagoDeagoDeagoDeagoDeagoDeagoDeag",
+            "features": [
+              "Frame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material:"
+            ],
+            "countPerPack": 1234567890,
+            "globalBrandLicense": [
+              "Frame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material:"
+            ],
+            "msrp": 12345.98,
+            "modelNumber": "TSR1002TSR1002TSR1002TSR1002TSR1002TSR1002TSR1002TSR1002345",
+            "mainImageUrl": "https://i5-qa.walmartimages.com/asr/af93a111-934e-450c-bd94-9a747a72e415.e6d8c62517a21d945bd8e6dd38f3a0af.jpeg",
+            "colorCategory": [
+              "Green"
+            ],
+            "prop65WarningText": "Frame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: AceFrame Material: Acetate Lens Material: Demo Lens Width: 52mmFrame Material: Acetate Lens Material:"
+          }
+        },
+        "Orderable": {
+          "hasBatteries": "Yes",
+          "batteryTechnologyType": "Lithium Ion",
+          "lithiumIonBatteries": {
+            "ionNumberOfBatteries": 10,
+            "ionNumberOfBatteryCells": 100,
+            "ionBatteryFormFactor": "Button Cell",
+            "ionBatteryModel": "abc",
+            "ionIncludedBatteryPackaging": "Contained In",
+            "ionBatteryWeight": 9,
+            "batteryWattHour": 12
+          },
+          "endDate": "2055-07-07T00:00:00.000Z",
+          "externalProductIdentifier": [
+            {
+              "externalProductIdType": "ASIN",
+              "externalProductId": "B002Z36VJE124"
+            }
+          ],
+          "stateRestrictions": [
+            {
+              "stateRestrictionsText": "Commercial",
+              "zipCodes": "110009",
+              "states": "123"
+            }
+          ],
+          "MustShipAlone": "No",
+          "productName": "Tom Ford Optical FT5427-055-52 EyeglassesTom Ford Optical FT5427-055-52 EyeglassesTom Ford Optical FT5427-055-52 EyeglassesTom Ford Optical FT5427-055-52 EyeglassesTom Ford Optical FT5427-055-52 Eyeg",
+          "productIdentifiers": {
+            "productId": "06299501050766",
+            "productIdType": "GTIN"
+          },
+          "electronicsIndicator": "Yes",
+          "safetyDataSheet": [
+            "http://xyz.com"
+          ],
+          "numberOfHazardousComponents": 4,
+          "shipsInOriginalPackaging": "No",
+          "price": 100.9,
+          "batterySize": "12",
+          "netContent": {
+            "productNetContentMeasure": 1.9,
+            "productNetContentUnit": "Centimeter"
+          },
+          "chemicalAerosolPesticide": "Yes",
+          "sku": "OpticalOpticalOpticalOpticalOpticalOpticalOptica01",
+          "brand": "Tom FordTom FordTom FordTom FordTom FordTom FordTom FordToa",
+          "startDate": "2021-07-07T00:00:00.000Z"
+        },
+        "TradeItem": {
+          "countryOfOriginAssembly": [
+            "IN - India"
+          ],
+          "pallet": {
+            "palletWeight": 14,
+            "palletWidth": 14,
+            "palletDepth": 14,
+            "palletHeight": 14,
+            "qtySellableItemsPallet": 14,
+            "palletGTIN": "06517410693158"
+          },
+          "innerPack": {
+            "innerPackWidth": 14,
+            "innerPackHeight": 14,
+            "qtySellableItemsInnerPack": 14,
+            "innerPackGTIN": "06517393919160",
+            "innerPackWeight": 14,
+            "innerPackDepth": 14
+          },
+          "sku": "OpticalOpticalOpticalOpticalOpticalOpticalOptica01",
+          "each": {
+            "eachDepth": 14,
+            "eachWeight": 14,
+            "eachWidth": 14,
+            "eachHeight": 14,
+            "eachGTIN": "06299501050766"
+          },
+          "case": {
+            "qtySellableItemsCase": 14,
+            "caseHeight": 14,
+            "caseGTIN": "06517410543149",
+            "caseWidth": 14,
+            "caseDepth": 14,
+            "caseWeight": 14
+          },
+          "orderableGTIN": "06299501050766"
+        }
+      }
+    ]
+  }
