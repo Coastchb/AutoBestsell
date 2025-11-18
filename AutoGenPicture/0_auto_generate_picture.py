@@ -90,7 +90,7 @@ authorization = {
 # 请求数据
 url = 'https://dhd.douhuiai.com/api/aiart/doGennanoimg'
 data = {
-    'dhAiType': 'nanomg',
+    'dhAiType': 'nanoimg',
     'dhPrompt': '给图片加个合适的背景，背景虚化一下，透明度60%；其他部分不要变动',
     'dhInputImgs': ['https://m.media-amazon.com/images/I/71CZ9WJJviL._AC_SL1500_.jpg']
 }
