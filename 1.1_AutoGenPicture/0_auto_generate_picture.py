@@ -71,7 +71,7 @@ def generate_img(input_img_path='https://m.media-amazon.com/images/I/81KZJl+1xtL
     input_img_paths = [input_img_path]
     data = {
         'dhAiType': 'nanoimg', #'txt2img',
-        'dhPrompt': '给输入的图片加个或者换一个合适的背景，背景虚化一下，多加一些点缀，透明度40%；如果图片中有人物，就给人物换张脸；其他部分不要变动',
+        'dhPrompt': '将图片中的文字换成“方城县良渝电子商务有限责任公司”和“Liangyu (Fangcheng) E-Commerce Co., Ltd.”。其他保持不变', #'给输入的图片加个或者换一个合适的背景，背景虚化一下，多加一些点缀，透明度40%；如果图片中有人物，就给人物换张脸；其他部分不要变动',
         'dhInputImgs': json.dumps(input_img_paths)
     }
 
@@ -150,4 +150,4 @@ def generate_img(input_img_path='https://m.media-amazon.com/images/I/81KZJl+1xtL
 
 
 if __name__ == '__main__':
-    generate_img(input_img_path='https://m.media-amazon.com/images/I/81KZJl+1xtL._AC_SL1500_.jpg')
+    generate_img(input_img_path='./c.png')
