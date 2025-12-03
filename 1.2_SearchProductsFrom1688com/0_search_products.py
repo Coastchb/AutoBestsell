@@ -4,8 +4,8 @@ import time
 import urllib.parse
 import base64
 # 配置信息（替换为你的实际参数）
-APP_KEY = "你的appkey"
-APP_SECRET = "你的secret"
+APP_KEY = "8726168"
+APP_SECRET = "WGAqpc9uTi"
 API_URL = "https://gw.open.1688.com/openapi/param2/1/com.alibaba.ai.vision/alibaba.ai.vision.product.search"
 IMAGE_PATH = "sample.jpg"  # 本地商品图片路径
 # 1. 图片预处理：转换为Base64编码

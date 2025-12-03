@@ -41,10 +41,10 @@ def search_items():
 
     """ Following are your credentials """
     """ Please add your access key here """
-    access_key = "<YOUR ACCESS KEY>"
+    access_key = "AKPAGWTJJD1764729025"
 
     """ Please add your secret key here """
-    secret_key = "<YOUR SECRET KEY>"
+    secret_key = "Eki3VfxMefycn4jD88ZdBYxaELNzVLR8GZKiaiSt"
 
     """ Please add your partner tag (store/tracking id) here """
     partner_tag = "<YOUR PARTNER TAG>"
