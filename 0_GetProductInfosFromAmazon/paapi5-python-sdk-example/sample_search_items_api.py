@@ -41,13 +41,13 @@ def search_items():
 
     """ Following are your credentials """
     """ Please add your access key here """
-    access_key = "AKPAGWTJJD1764729025"
+    access_key = "AKPA2P29RD1764729453" #"AKPAGWTJJD1764729025"
 
     """ Please add your secret key here """
-    secret_key = "Eki3VfxMefycn4jD88ZdBYxaELNzVLR8GZKiaiSt"
+    secret_key = "rtdQ5Ue2ej5SeWenri1Vqp+kEtKczEThHSFsKhZy"  #"Eki3VfxMefycn4jD88ZdBYxaELNzVLR8GZKiaiSt"
 
     """ Please add your partner tag (store/tracking id) here """
-    partner_tag = "<YOUR PARTNER TAG>"
+    partner_tag = "vceuvc-20"
 
     """ PAAPI host and region to which you want to send request """
     """ For more details refer: https://webservices.amazon.com/paapi5/documentation/common-request-parameters.html#host-and-region"""
